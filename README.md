@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![346115858_629849929047595_5223122492117822169_n](https://github.com/Utsa05/Flight-Travel-UI/assets/71923060/a7083653-b108-4b90-bd2b-66a7737a5661)
+![346115858_629849929047595_5223122492117822169_n](https://github.com/Utsa05/Flight-Travel-UI/assets/71923060/dfa91fa4-dc2d-4e0a-a11b-6807daefb181)
+![346126275_196922393210864_5522974238932966429_n](https://github.com/Utsa05/Flight-Travel-UI/assets/71923060/d5a27c6d-4701-4769-9b88-485e7af9cf63)
